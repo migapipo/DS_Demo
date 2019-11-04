@@ -1,6 +1,5 @@
 # Distributed-Systems
-# COMP90015 2018 SM1 Project 1 - Multi-server Network
-## University of Melbourne
+COMP90015 2018 SM1 Project 1 - Multi-server Network (University of Melbourne)
 This project builds a simple multi-server system for broadcasting activity objects between a number of clients. 
 
 The multi-server system will:
