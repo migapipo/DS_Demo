@@ -12,8 +12,7 @@ The system was envisioned to allow clients to broadcast "activity stream objects
 However, processing activity stream objects is beyond the scope of the project and only a simple process is required in this project (to authenticate the user who broadcast the object).
 
 # Achitecture
-- The multi-server system will form a tree: 
-  -- Skeleton code will be provided that will handle all of the socket connections to do this, as well as command line argument parsing and logging for diagnostic output.
+- The multi-server system will form a tree: Skeleton code will be provided that will handle all of the socket connections to do this, as well as command line argument parsing and logging for diagnostic output.
 - Each client will connect to a single server, and may be redirected to another server as part of the
 process.
 # Interaction
